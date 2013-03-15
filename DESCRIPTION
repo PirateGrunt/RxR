@@ -1,0 +1,9 @@
+Package: RxR
+Title: Reinsurance Data Exchange in R
+Description: RxR is a package which will facilitate data exchange for reinsurance submissions. It may also be used as a guide for the data required to assess profitability of any insurance business segment.
+Version: 0.1
+Maintainer: Brian Fannin <BFannin@RedwoodsGroup.com>
+  Author: Brian Fannin [aut, cre]
+License: GPL (>= 2)
+Depends:
+  R (>= 2.15.0)
