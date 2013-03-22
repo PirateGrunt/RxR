@@ -1,10 +1,9 @@
-# History files
+# R files
 .Rhistory
-
-# Example code in package build process
-*-Ex.R
+.RData
+.RBuildIgnore
+.Rproj
 .Rproj.user
 
 .gitignore
 
-.Rproj
