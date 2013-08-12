@@ -1,3 +1,6 @@
+USE RxR
+GO
+
 CREATE TABLE [dbo].[tblWrittenPremiumByCoverage](
 	[AccountNumber] [int] NOT NULL,
 	[EffectiveDate] [datetime] NULL,
